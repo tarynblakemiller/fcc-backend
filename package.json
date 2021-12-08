@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Taryn Blake Miller",
+	"description": "Backend course on NPM packages",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
