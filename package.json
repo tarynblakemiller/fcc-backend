@@ -4,6 +4,7 @@
 	"description": "Backend course on NPM packages",
 	"keywords": ["freecodecamp", "lessongs", "education"],
 	"license": "V-TBM",
+	"version": "1.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
